@@ -9,4 +9,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "pushAgentDp"
 include ':app'
-include ':pushAgentDp'
+include ':PushAgentDp'
